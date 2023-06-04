@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StoryMaster</string>
+    <string name="horror_text">Страшные истории</string>
+    <string name="detective_text">Детективные истории</string>
 </resources>

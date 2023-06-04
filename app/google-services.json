@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "631006957768",
+    "project_id": "storymaster-67283",
+    "storage_bucket": "storymaster-67283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631006957768:android:c2b86361f63d10947d95fd",
+        "android_client_info": {
+          "package_name": "ua.company.storymaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631006957768-332jimb9ahi6tt6cn6sqq75658lsuvs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ua.company.storymaster",
+            "certificate_hash": "d145a3ea588ac217cf4fbd7dcd8f9e86fcf4c0f9"
+          }
+        },
+        {
+          "client_id": "631006957768-q9f8nao2dfsr3n2qn5s00j8i1c1lhsfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJpa88YZkL8hHoX-QBrfb4rdteHMIqU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631006957768-q9f8nao2dfsr3n2qn5s00j8i1c1lhsfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
