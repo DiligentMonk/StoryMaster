@@ -10,7 +10,7 @@ StoryMaster is an application whic allows you to read short stories of different
 # IDE
 - Android Studio
 # Firebase Realtime Database
-Using Firebase Realtime Database to store data of stories.
+Using Firebase Realtime Database to store data of titles.
 # Available features
 - choose between existing genres (Horror, Detective)
 - choose between available stories in the database
